@@ -12,3 +12,10 @@ It shows how Python works with:
 - f-strings for formatting
 
 Another step forward in my CS journey 🚀
+
+
+### Day 3 – Python Logic: Calculator with While Loop
+
+- Built a smart calculator using `while`, `if`, `elif`, `else`
+- Allowed user to perform multiple operations until they type `exit`
+- Handled edge case: divide by 0 using `continue`
