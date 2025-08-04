@@ -14,6 +14,14 @@ It shows how Python works with:
 Another step forward in my CS journey 🚀
 
 
+### Day 3 – Python Logic: Calculator with While Loop
+
+- Built a smart calculator using `while`, `if`, `elif`, `else`
+- Allowed user to perform multiple operations until they type `exit`
+- Handled edge case: divide by 0 using `continue`
+
+
+
 ## Day 4 – Python Conditionals: Grade Evaluator 🧠
 
 This script asks for a student’s marks in 5 subjects, calculates total and percentage, and evaluates the grade.
@@ -26,8 +34,3 @@ This script asks for a student’s marks in 5 subjects, calculates total and per
 
 **Another level up in my CS journey 🚀**
 
-### Day 3 – Python Logic: Calculator with While Loop
-
-- Built a smart calculator using `while`, `if`, `elif`, `else`
-- Allowed user to perform multiple operations until they type `exit`
-- Handled edge case: divide by 0 using `continue`
