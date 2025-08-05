@@ -34,3 +34,18 @@ This script asks for a student’s marks in 5 subjects, calculates total and per
 
 **Another level up in my CS journey 🚀**
 
+
+# Day 5 – Loops and Lists: Guest List Tracker 📋
+
+This Python script takes a number of guests from the user and collects their names in a list. Then, it prints a formatted guest list.
+
+## Concepts Used:
+- for loop
+- Lists
+- User input
+- range()
+- List appending
+- Looping through lists
+
+Another strong step forward in my CS journey 🚀
+
