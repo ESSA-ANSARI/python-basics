@@ -49,3 +49,17 @@ This Python script takes a number of guests from the user and collects their nam
 
 Another strong step forward in my CS journey 🚀
 
+
+## Day 6 – Functions & Reusability: BMI Calculator ⚖️
+
+This project uses two custom functions:
+- `calculate_bmi(weight, height)` – returns BMI
+- `interpret_bmi(bmi)` – returns BMI category
+
+### Concepts Used:
+- def and return
+- Parameters and arguments
+- Conditional logic
+- f-string formatting
+
+A powerful step into real-world, reusable coding! 🚀
