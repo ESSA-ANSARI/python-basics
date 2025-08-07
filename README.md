@@ -63,3 +63,21 @@ This project uses two custom functions:
 - f-string formatting
 
 A powerful step into real-world, reusable coding! 🚀
+
+
+# Day 7 – File Handling: Notes Manager 🧠
+
+This Python script allows the user to write and save personal notes to a text file (`notes.txt`). It demonstrates basic file handling skills and is a practical example of real-world programming.
+
+## What it does:
+- Accepts notes from the user
+- Saves the notes to a file
+- Reads and displays all saved notes
+
+## Concepts Used:
+- `open()` function
+- File modes: `"w"`, `"a"`, `"r"`
+- `write()` and `read()` methods
+- `with` block for safer file handling
+
+Another big step in my CS journey 🚀
