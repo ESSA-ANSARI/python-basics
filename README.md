@@ -81,3 +81,26 @@ This Python script allows the user to write and save personal notes to a text fi
 - `with` block for safer file handling
 
 Another big step in my CS journey 🚀
+
+
+# Day 8 – Python Dictionaries: Contact Book 📇
+
+## Description
+This Python script allows users to store and manage contacts in a dictionary.  
+It supports adding, viewing, searching, and deleting contacts.
+
+## Concepts Used:
+- **Dictionaries** for storing data as key-value pairs
+- Dictionary methods: `.get()`, `.items()`, and `del`
+- Functions for modular code
+- Loops and conditionals for menu navigation
+- String formatting for clean output
+
+## Features:
+1. **Add Contact** – Store a new name and phone number
+2. **View Contacts** – Display all saved contacts
+3. **Search Contact** – Find a contact by name
+4. **Delete Contact** – Remove a contact from the book
+5. **Exit** – Quit the program
+
+Another strong step forward in my CS journey 🚀
