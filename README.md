@@ -104,3 +104,25 @@ It supports adding, viewing, searching, and deleting contacts.
 5. **Exit** – Quit the program
 
 Another strong step forward in my CS journey 🚀
+
+
+# Day 9 – API Requests: Live Weather App ☁️🌤
+
+## Description
+This Python script fetches live weather data from the **OpenWeather API** based on a city name input from the user.
+
+## Concepts Used:
+- **API requests** with `requests` module
+- **JSON parsing** in Python
+- Error handling for invalid inputs
+- Using **parameters** in HTTP requests
+- Real-time data processing
+
+## Features:
+1. Get live temperature in °C
+2. Show weather condition
+3. Display humidity
+4. Handle errors for invalid city names
+
+Another big step toward building real-world applications 🌍
+
