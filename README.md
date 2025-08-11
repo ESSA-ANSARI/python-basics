@@ -126,3 +126,20 @@ This Python script fetches live weather data from the **OpenWeather API** based 
 
 Another big step toward building real-world applications 🌍
 
+
+# Day 10 – Number Guessing Game 🎯
+
+## Description
+A fun interactive Python game where the user tries to guess the computer's random number in the fewest attempts possible.
+
+## Concepts Learned:
+- `random.randint()` for random numbers
+- `while True` loops for continuous play
+- `if/elif/else` for conditions
+- Counting attempts with variables
+
+## How to Play:
+1. Run the script
+2. Enter a guess between 1–50
+3. Follow the hints until you guess correctly
+4. See your score (number of attempts)
