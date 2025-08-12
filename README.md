@@ -143,3 +143,29 @@ A fun interactive Python game where the user tries to guess the computer's rando
 2. Enter a guess between 1–50
 3. Follow the hints until you guess correctly
 4. See your score (number of attempts)
+
+
+# Day 11 – Number Guessing Game 2.0 🎮
+
+## Description
+An upgraded interactive Python game where the user selects a difficulty level and tries to guess the computer's random number in limited attempts.
+
+## Features:
+- Difficulty Levels (Easy, Medium, Hard)
+- Replay option without restarting
+- Clean and colorful outputs
+
+## Concepts Learned:
+- Functions (`def play_game()`)
+- Input validation
+- Loop control (`while True`, `break`)
+- Variables for difficulty settings
+
+## How to Play:
+1. Run the script
+2. Choose a difficulty level
+3. Guess the number within limited attempts
+4. Play again if you want!
+
+
+
