@@ -168,4 +168,21 @@ An upgraded interactive Python game where the user selects a difficulty level an
 4. Play again if you want!
 
 
+# Day 12 – Python Password Generator 🔑
+
+## Description
+A Python script that generates strong random passwords using letters, numbers, and special characters.
+
+## Features:
+- User chooses password length
+- Includes uppercase, lowercase, numbers, and symbols
+- Prevents too-short passwords
+- Option to generate multiple passwords
+
+## Concepts Learned:
+- Using `string` and `random` modules
+- Loops
+- Input validation
+- String joining
+
 
